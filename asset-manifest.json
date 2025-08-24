@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nirportfolio/static/css/main.94468e56.css",
-    "main.js": "/nirportfolio/static/js/main.03533127.js",
+    "main.css": "/nirportfolio/static/css/main.bef2596c.css",
+    "main.js": "/nirportfolio/static/js/main.49847aee.js",
     "index.html": "/nirportfolio/index.html",
-    "main.94468e56.css.map": "/nirportfolio/static/css/main.94468e56.css.map",
-    "main.03533127.js.map": "/nirportfolio/static/js/main.03533127.js.map"
+    "main.bef2596c.css.map": "/nirportfolio/static/css/main.bef2596c.css.map",
+    "main.49847aee.js.map": "/nirportfolio/static/js/main.49847aee.js.map"
   },
   "entrypoints": [
-    "static/css/main.94468e56.css",
-    "static/js/main.03533127.js"
+    "static/css/main.bef2596c.css",
+    "static/js/main.49847aee.js"
   ]
 }
