@@ -1,11 +1,12 @@
 {
-  "name": "satellite-tracker",
+  "name": "nirportfolio",
   "version": "1.0.0",
   "private": true,
   "homepage": "https://nirvan-08.github.io/nirportfolio",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^7.8.2",
     "react-scripts": "5.0.1"
   },
   "scripts": {
@@ -32,5 +33,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.1"
   }
 }
