@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nirportfolio/static/css/main.0f60a263.css",
+    "main.js": "/nirportfolio/static/js/main.8b72541f.js",
+    "index.html": "/nirportfolio/index.html",
+    "main.0f60a263.css.map": "/nirportfolio/static/css/main.0f60a263.css.map",
+    "main.8b72541f.js.map": "/nirportfolio/static/js/main.8b72541f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f60a263.css",
+    "static/js/main.8b72541f.js"
+  ]
+}
