@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom animations */
+.animate-fade-in-up-delay { 
+  animation: fadeInUp 0.8s ease-out 0.5s forwards; 
+  opacity: 0; 
+}
